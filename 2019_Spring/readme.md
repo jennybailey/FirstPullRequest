@@ -26,7 +26,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Atkins, Melea :star2:
 
-- [X] Bailey, Jennifer
+- [ ] Bailey, Jennifer
 
 - [X] Bauman, Natalie
 
